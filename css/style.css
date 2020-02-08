@@ -1,0 +1,7 @@
+.kvas-value {
+  border-collapse: collapse;
+}
+
+.kvas-value td {
+  border: 1px solid #333333;
+}
